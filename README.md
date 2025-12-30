@@ -78,8 +78,8 @@ If you use this repository, please cite our paper:
 
 ```
 @article{FinKLine2025,
-  title   = {FinKLine: Stage-wise Post-Training for Multimodal Financial Reasoning and Multi-step Stock Price Forecasting},
-  author  = {Zhang, Jinyi and Li, Haowei and Deng, Dashuai and Wang, Yanshu and Matsumoto, Tadahiro},
+  title   = {FinKLine: A Multimodal Chain-of-Thought Training Framework for Stock Price Prediction},
+  author  = {Jinyi Zhang, Shuo Wang, Yueqiu Jiang, Yingfeng Luo, Ye Tian, Tong Xiao, Tadahiro Matsumoto},
   journal = {Knowledge-Based Systems},
   year    = {2025}
 }
@@ -88,5 +88,6 @@ If you use this repository, please cite our paper:
 You may update bibliographic fields after acceptance.
 
 ### 📬 Contact
+
 
 For questions or access to additional materials, please contact the authors via the email provided in the paper.
