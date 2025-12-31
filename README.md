@@ -7,12 +7,11 @@
 <p align="center">
   📈 Multimodal Financial Reasoning · 🧠 Chain-of-Thought · 🧩 Stage-wise Post-training · 🔁 Rolling Prediction Evaluation
 </p>
-
 <p align="center">
-  <a href="#-english">English</a> · <a href="#-中文">中文</a>
+  <a href="#english">English</a> · <a href="./README_zh.md">中文</a>
 </p>
 
----
+
 
 ## 🌍 English
 
@@ -23,10 +22,13 @@ It provides image folders, **stage-wise training data** (Stage I to Stage III), 
 ### 📦 What’s inside
 - 🖼️ **Training sample images (preview)**
   - `images/20250303` contains **30** candlestick chart images for quick inspection.
+  - **20250303：**https://drive.google.com/drive/folders/1hvIB3hcNnSmiGsFFMdWZrAMSZvQQ6dOT?usp=drive_link
 - 🔁 **Rolling prediction test images**
   - `imagestest-0317/20250317` contains **500** images for rolling prediction evaluation.
+  - **20250317：**https://drive.google.com/drive/folders/1EmrBaq5ba5RY-Sd-9I3pUBcoEbNOmv8J?usp=drive_link
 - 🧪 **FinKLine-DB-test images**
   - `imagestest-0825/20250825` contains **500** images for the standard test set.
+  - **20250825：**https://drive.google.com/drive/folders/1dOFwPrwHrxWwv-DNPvzAmsDweXxCzSuD?usp=drive_link
 - 🧩 **Stage-wise training sets**
   - `Stage I/train_27196_cot.csv`
   - `Stage II/train_4520_png_cot.json`
@@ -79,7 +81,7 @@ If you use this repository, please cite our paper:
 ```
 @article{FinKLine2025,
   title   = {FinKLine: A Multimodal Chain-of-Thought Training Framework for Stock Price Prediction},
-  author  = {Jinyi Zhang, Shuo Wang, Yueqiu Jiang, Yingfeng Luo, Ye Tian, Tong Xiao, Tadahiro Matsumoto},
+  author  = {Zhang, Jinyi and Wang, Shuo and Jiang, Yueqiu and Luo, Yingfeng and Tian, Ye and Xiao, Tong and Matsumoto, Tadahiro},
   journal = {Knowledge-Based Systems},
   year    = {2025}
 }
@@ -88,6 +90,5 @@ If you use this repository, please cite our paper:
 You may update bibliographic fields after acceptance.
 
 ### 📬 Contact
-
 
 For questions or access to additional materials, please contact the authors via the email provided in the paper.

@@ -7,9 +7,8 @@
 <p align="center">
   📈 多模态金融推理 · 🧠 思维链 · 🧩 阶段式后训练 · 🔁 滚动预测评测
 </p>
-
 <p align="center">
-  <a href="#-english">English</a> · <a href="#-中文">中文</a>
+  <a href="./README.md">English</a> · <a href="#-中文">中文</a>
 </p>
 
 ## 🌍中文
@@ -23,10 +22,13 @@
 
 - 🖼️ **训练样例图片（预览）**
   - `images/20250303` 含 **30** 张 K 线图图片，用于快速检查与复现实验流程。
+  - **20250303：**https://drive.google.com/drive/folders/1hvIB3hcNnSmiGsFFMdWZrAMSZvQQ6dOT?usp=drive_link
 - 🔁 **滚动预测测试图片**
   - `imagestest-0317/20250317` 含 **500** 张图片，用于固定历史窗口的滚动预测评测。
+  - **20250317：**https://drive.google.com/drive/folders/1EmrBaq5ba5RY-Sd-9I3pUBcoEbNOmv8J?usp=drive_link
 - 🧪 **FinKLine-DB-test 测试图片**
   - `imagestest-0825/20250825` 含 **500** 张图片，对应标准测试集。
+  - **20250825：**https://drive.google.com/drive/folders/1dOFwPrwHrxWwv-DNPvzAmsDweXxCzSuD?usp=drive_link
 - 🧩 **三阶段训练数据**
   - `Stage I/train_27196_cot.csv`
   - `Stage II/train_4520_png_cot.json`
@@ -77,6 +79,17 @@
 ### 📌 引用方式
 
 如在研究中使用本仓库内容，请引用我们的论文。论文接收后可补全卷期页码等信息。
+
+```
+@article{FinKLine2025,
+  title   = {FinKLine: A Multimodal Chain-of-Thought Training Framework for Stock Price Prediction},
+  author  = {Zhang, Jinyi and Wang, Shuo and Jiang, Yueqiu and Luo, Yingfeng and Tian, Ye and Xiao, Tong and Matsumoto, Tadahiro},
+  journal = {Knowledge-Based Systems},
+  year    = {2025}
+}
+```
+
+
 
 ### 📬 联系方式
 
