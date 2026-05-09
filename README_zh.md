@@ -81,12 +81,6 @@
 如在研究中使用本仓库内容，请引用我们的论文。论文接收后可补全卷期页码等信息。
 
 ```
-@article{FinKLine2025,
-  title   = {FinKLine: A Multimodal Chain-of-Thought Training Framework for Stock Price Prediction},
-  author  = {Zhang, Jinyi and Wang, Shuo and Jiang, Yueqiu and Luo, Yingfeng and Tian, Ye and Xiao, Tong and Matsumoto, Tadahiro},
-  journal = {Knowledge-Based Systems},
-  year    = {2025}
-}
 ```
 
 
