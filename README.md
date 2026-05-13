@@ -74,15 +74,6 @@ Images are organized by date folders and follow the pattern:
 - `000001_20250317.png`
 - `000001_20250825.png`
 
-### 📌 Citation
-
-If you use this repository, please cite our paper:
-
-```
-```
-
-You may update bibliographic fields after acceptance.
-
 ### 📬 Contact
 
 For questions or access to additional materials, please contact the authors via the email provided in the paper.
